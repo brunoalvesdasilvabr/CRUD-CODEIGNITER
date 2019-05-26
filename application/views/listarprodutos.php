@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="container">
 					<div class="row">
 						<h1>Lista de produtos tabela</h1>
-						<a href="produtos/add" class="btn btn-success margin-button15">Novo Produto</a>
+						<a href="index.php/produtos/add" class="btn btn-success margin-button15">Novo Produto</a>
 							<table class="table table bordered">
 								<thead>
 									<tr>
